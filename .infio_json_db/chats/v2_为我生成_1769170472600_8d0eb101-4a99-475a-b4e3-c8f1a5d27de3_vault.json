@@ -1,0 +1,66 @@
+{
+  "id": "8d0eb101-4a99-475a-b4e3-c8f1a5d27de3",
+  "title": "为我生成",
+  "messages": [
+    {
+      "role": "user",
+      "applyStatus": 0,
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "为我生成",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "<task>\n为我生成\n</task>\n\n<current_tab_note path=\"html制表.md\">\nNote Path: html制表.md\n</current_tab_note>\n\n<environment_details>\n# Current File\nhtml制表.md\n\n# Current Workspace\nMeredithelin_vault (entire vault)\n\n# Assistant & User State\n## Current Time\n2026/1/23 下午8:13:01 (Asia/Shanghai, UTC+8:00)\n\n## Current Mode\n<slug>ask</slug>\n<name>Ask</name>\n</environment_details>"
+        }
+      ],
+      "id": "65e2cd9d-d65d-44e2-a52f-921593e57851",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "html制表.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "applyStatus": 0,
+      "content": "",
+      "reasoningContent": "",
+      "id": "553177f8-f4bd-4387-8bcb-09cb3b22023a",
+      "metadata": {}
+    }
+  ],
+  "createdAt": 1769170381755,
+  "updatedAt": 1769170472600,
+  "schemaVersion": 2,
+  "workspace": "vault"
+}

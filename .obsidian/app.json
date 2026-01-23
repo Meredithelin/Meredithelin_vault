@@ -1,1 +1,7 @@
-{}
+{
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showLineNumber": false,
+  "newLinkFormat": "relative"
+}
