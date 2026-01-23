@@ -10,5 +10,8 @@
   "obsidian-kanban",
   "editing-toolbar",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "smart-connections",
+  "obsidian-textgenerator-plugin",
+  "infio-copilot"
 ]
