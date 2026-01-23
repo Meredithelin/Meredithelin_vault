@@ -101,13 +101,13 @@
       "basePath": "https://api.openai.com/v1"
     },
     "Google GenerativeAI (Langchain)": {
-      "model": "gemini-1.5-flash",
+      "model": "gemini-3-pro-preview",
       "api_key": ""
     }
   },
   "LLMProviderOptionsKeysHashed": {
     "whisper.api_key": "__@#key_prefix#@__",
-    "Google GenerativeAI (Langchain).api_key": "__@#key_prefix#@__AIzaSyBLrxIiNA1_TqoMM8D9f6up0uDYU7SYm7I"
+    "Google GenerativeAI (Langchain).api_key": "__@#key_prefix#@__AIzaSyCR94smmbSZzPI1Hwp_Yas-0MWoprzFfhQ"
   },
   "api_key_encrypted": "__@#key_prefix#@__"
 }
