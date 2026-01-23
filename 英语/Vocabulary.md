@@ -1,0 +1,4 @@
+- layover 临时滞留，中途下车。
+- sequel = contiuation = follow-up 续集
+- villain 恶棍
+- vice president 副总统
