@@ -106,7 +106,7 @@
   "collectedEmbeddingModels": [],
   "activeProviderTab": "Google",
   "chatModelProvider": "Google",
-  "chatModelId": "gemini-1.5-flash-002",
+  "chatModelId": "gemini-2.0-flash-lite-preview-02-05",
   "insightModelProvider": "Google",
   "insightModelId": "gemini-2.5-flash-preview-05-20",
   "applyModelProvider": "Google",
@@ -160,8 +160,8 @@
   "systemPrompt": "",
   "ragOptions": {
     "filesystem": "opfs",
-    "batchSize": 32,
     "chunkSize": 500,
+    "batchSize": 32,
     "thresholdTokens": 8192,
     "minSimilarity": 0,
     "limit": 10,
