@@ -13,3 +13,4 @@
 - `<br>`
 - `<blockquote>`(`<blockquote cite="#">`)
 # 2.插入图片
+`<img src="#" alt= >`
