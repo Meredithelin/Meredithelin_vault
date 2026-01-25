@@ -1,6 +1,6 @@
  - <font face=algerian color=  #f5000039 size=5>Things to learn
   - [ ] github
-  - [x] latex
+  - [ ] latex
   - [ ] physics
   - [ ] english
   - [ ] html
@@ -8,4 +8,3 @@
   - [ ] C语言
   - [ ] 网络
   - [ ] 法学
-  - [ ] 📅 2
