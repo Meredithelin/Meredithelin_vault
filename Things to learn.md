@@ -1,0 +1,10 @@
+ - <font face=algerian color=  #f5000039 size=5>Things to learn
+  - [ ] github
+  - [ ] latex
+  - [ ] physics
+  - [ ] english
+  - [ ] html
+  - [ ] 数据结构
+  - [ ] C语言
+  - [ ] 网络
+  - [ ] 法学
