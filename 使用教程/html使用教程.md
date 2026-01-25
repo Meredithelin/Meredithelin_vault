@@ -66,3 +66,146 @@
     `src="../cake.jpg"` (`..` 代表退回到上一层目录)
 ---
 # 3.CSS
+为了方便你记忆，我把常用的 CSS 操作分成了 **5 大类**（文字、盒子、布局、背景、交互）。你可以把这篇回答当作你的**“速查字典”**。
+
+---
+### 第一类：文字美容 (Typography)
+这是最基础的，决定了网页上的字好不好看。
+
+|**属性 (Property)**|**作用**|**常用写法 (示例)**|**备注**|
+|---|---|---|---|
+|**color**|字体颜色|`color: #333;` 或 `color: red;`|推荐用十六进制代码 (#...)|
+|**font-size**|字体大小|`font-size: 16px;`|网页正文一般 16px-18px|
+|**font-weight**|字体粗细|`font-weight: bold;`|bold(粗), normal(正常)|
+|**text-align**|文字对齐|`text-align: center;`|center(居中), left(左), right(右)|
+|**line-height**|行高|`line-height: 1.5;`|让多行文字不拥挤，1.5 倍很舒服|
+|**font-family**|字体类型|`font-family: "微软雅黑", sans-serif;`|优先用什么字体|
+
+---
+
+### 第二类：盒子模型 (Box Model) —— **核心概念**
+
+这是新手最容易晕的地方。在 CSS 眼里，**所有元素（图片、标题、段落）都是一个矩形的盒子**。
+
+你需要控制这个盒子的三个“厚度”：
+
+1. **Padding (内边距)**：内容到边框的距离（像**填充泡沫**，让盒子变胖）。
+    
+2. **Border (边框)**：盒子的壳。
+    
+3. **Margin (外边距)**：盒子和其他盒子之间的距离（像**社交距离**，推开别人）。
+    
+
+|**属性**|**作用**|**示例**|**顺口溜**|
+|---|---|---|---|
+|**padding**|内边距|`padding: 20px;`|**自己变胖**，内容不贴边|
+|**margin**|外边距|`margin: 20px;`|**推开别人**，产生空隙|
+|**border**|边框|`border: 1px solid black;`|粗细 + 样式 + 颜色|
+|**width**|宽度|`width: 300px;`|也可以用百分比 `50%`|
+|**height**|高度|`height: 200px;`|通常不写，让内容自动撑开|
+
+> **💡 小技巧：** 想要一个东西（有宽度的）**水平居中**，最著名的写法是：`margin: 0 auto;` (上下为0，左右自动)。
+
+---
+
+### 第三类：布局排版 (Layout) —— 让元素排排坐
+
+以前排版很难，现在有了神器 **Flexbox (弹性盒子)**，你只需要记住这三行代码，就能搞定 90% 的布局（比如导航栏、图片列表）。
+
+首先，你要给这些元素的**父容器**（比如装它们的 `<div>`）加上魔法：
+
+CSS
+
+```
+.container {
+    display: flex; /* 开启弹性布局，子元素会自动横向排列 */
+    justify-content: center; /* 横向居中 (justify-content) */
+    align-items: center; /* 纵向居中 (align-items) */
+}
+```
+
+|**属性**|**作用**|**常用值**|
+|---|---|---|
+|**display**|显示模式|`flex` (最常用), `block` (独占一行), `none` (隐藏)|
+|**justify-content**|横向对齐|`center` (居中), `space-between` (两端对齐，导航栏常用)|
+|**align-items**|纵向对齐|`center` (垂直居中)|
+
+---
+
+### 第四类：美化修饰 (Decoration)
+
+让网页看起来不像 90 年代产品的关键。
+
+|**属性**|**作用**|**示例**|
+|---|---|---|
+|**background-color**|背景色|`background-color: #f0f0f0;`|
+|**background-image**|背景图|`background-image: url('bg.jpg');`|
+|**border-radius**|**圆角**|`border-radius: 10px;` (如果是 50% 就变成圆形)|
+|**box-shadow**|**阴影**|`box-shadow: 5px 5px 10px #888;` (让元素有立体感)|
+
+---
+
+### 第五类：交互动作 (Interaction)
+
+这是最让新手有成就感的一个：**“鼠标悬停效果”**。
+
+使用 `:hover` 伪类。
+
+CSS
+
+```
+/* 当鼠标移到 img 图片上时 */
+img:hover {
+    transform: scale(1.1); /* 图片放大 1.1 倍 */
+    cursor: pointer;       /* 鼠标变成小手形状 */
+}
+```
+
+---
+
+### 🚀 实战：给你的“烘培工坊”来个大装修
+
+你可以把下面这段代码直接复制到你的 `<style>` 标签里，替换掉原来的，看看效果：
+
+CSS
+
+```
+/* 1. 全局设置 */
+body {
+    background-color: #FFFAF0; /* 奶油色背景 */
+    font-family: sans-serif;   /* 现代无衬线字体 */
+    margin: 0;                 /* 去掉浏览器默认的白边 */
+}
+
+/* 2. 标题修饰 */
+h1 {
+    color: #8B4513;            /* 巧克力色 */
+    text-align: center;        /* 居中 */
+    padding: 20px;             /* 给标题周围留点空间 */
+    border-bottom: 3px solid #D2691E; /* 底部加根线条 */
+}
+
+/* 3. 图片修饰 (重点看这里) */
+img {
+    display: block;            /* 为了能用 margin: auto */
+    width: 300px;              /* 限制图片宽度 */
+    margin: 30px auto;         /* 上下30px间距，左右自动居中 */
+    border-radius: 15px;       /* 变成圆角矩形 */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* 加一点淡淡的阴影，有立体感 */
+    transition: transform 0.3s; /* 动画过渡时间 */
+}
+
+/* 4. 鼠标悬停特效 */
+img:hover {
+    transform: scale(1.05);    /* 鼠标放上去时，稍微放大一点点 */
+    cursor: pointer;           /* 鼠标变小手 */
+}
+
+/* 5. 段落修饰 */
+p {
+    text-align: center;
+    color: #555;
+    font-size: 18px;
+    line-height: 1.6;          /* 行高大一点，阅读舒服 */
+}
+```
