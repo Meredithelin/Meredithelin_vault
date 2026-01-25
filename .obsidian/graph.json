@@ -6,12 +6,20 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:使用教程",
+      "color": {
+        "a": 1,
+        "rgb": 9635334
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.71588541666667,
-  "lineSizeMultiplier": 2.58828125,
+  "nodeSizeMultiplier": 3.02213541666667,
+  "lineSizeMultiplier": 3.0859375,
   "collapse-forces": false,
   "centerStrength": 0.546875,
   "repelStrength": 10,
