@@ -1,8 +1,8 @@
 # <center><font face="仿宋" color=dark size=20>*Markdown使用教程*</font><center>
 ## *基本语法*
 ### 1.标题
-#一级标题
-##二级标题
+`#一级标题`
+`##二级标题`
 ### 2.引用
 >使用>即可
 >>还可以嵌套
