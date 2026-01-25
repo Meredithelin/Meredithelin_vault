@@ -12,3 +12,4 @@
 - `<a>`(`<a href="#">`)
 - `<br>`
 - `<blockquote>`(`<blockquote cite="#">`)
+# 2.插入图片
