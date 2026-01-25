@@ -6,6 +6,7 @@
 | control+t       | 打开新标签页 |
 | control+w       | 退出     |
 | control+shift+t | 退出之后恢复 |
+| control+shift+b | 开关书签栏  |
 ## 2.插件
 - 沉浸式翻译
 - gofullpage
