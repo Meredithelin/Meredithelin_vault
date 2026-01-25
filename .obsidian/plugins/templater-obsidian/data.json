@@ -17,10 +17,6 @@
     {
       "folder": "日记",
       "template": "日记/日记模板.md"
-    },
-    {
-      "folder": "Web page",
-      "template": ""
     }
   ],
   "enable_file_templates": false,
