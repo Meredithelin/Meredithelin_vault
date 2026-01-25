@@ -99,20 +99,14 @@ CSS 的全称是 **Cascading Style Sheets**（层叠样式表）。
 CSS 的工作原理可以概括为一句话：**“找到谁，给它换装。”**
 
 它的语法结构非常固定：
-
-CSS
-
-```
+```css
 谁 {
     改什么: 改成什么样子;
 }
 ```
 
 用专业术语说就是：
-
-CSS
-
-```
+```css
 选择器 {
     属性: 值;
 }
@@ -124,9 +118,7 @@ CSS
 
 - **HTML (骨架):**
     
-    HTML
-    
-    ```
+    ```html
     <h1>烘培工坊</h1>
     ```
     
@@ -152,9 +144,7 @@ CSS
 
 **请看下面的代码示例（你可以直接复制去试试）：**
 
-HTML
-
-```
+```html
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
@@ -241,10 +231,7 @@ HTML
 以前排版很难，现在有了神器 **Flexbox (弹性盒子)**，你只需要记住这三行代码，就能搞定 90% 的布局（比如导航栏、图片列表）。
 
 首先，你要给这些元素的**父容器**（比如装它们的 `<div>`）加上魔法：
-
-CSS
-
-```
+```css
 .container {
     display: flex; /* 开启弹性布局，子元素会自动横向排列 */
     justify-content: center; /* 横向居中 (justify-content) */
@@ -279,9 +266,7 @@ CSS
 
 使用 `:hover` 伪类。
 
-CSS
-
-```
+```css
 /* 当鼠标移到 img 图片上时 */
 img:hover {
     transform: scale(1.1); /* 图片放大 1.1 倍 */
@@ -295,9 +280,7 @@ img:hover {
 
 你可以把下面这段代码直接复制到你的 `<style>` 标签里，替换掉原来的，看看效果：
 
-CSS
-
-```
+```css
 /* 1. 全局设置 */
 body {
     background-color: #FFFAF0; /* 奶油色背景 */
