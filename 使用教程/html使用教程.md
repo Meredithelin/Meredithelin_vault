@@ -1,23 +1,7 @@
-<table border="5">
-	<th>
-		<tr>
-		<td>nihao</td>
-		<td>nihao</td>
-		<td>nihao</td>
-	  </tr>			
-	</th>
-	<tr>
-		<td>nihao</td>
-		<td>nihao</td>
-		<td>nihao</td>
-	  </tr>			
-</table>
+# 1.常见标签
+## 区块元素
 
-
-
-|      |     |      |
-| ---- | --- | ---- |
-| jvsh |     | sdsd |
-| sd   |     | dhsb |
-
-
+## 行内元素
+- '<strong></strong>'
+- '<em>'
+- 
