@@ -323,3 +323,7 @@ p {
 - `<main>`
 - `<section>`
 - `<footer>`
+# 5.布局
+- border
+- padding
+- margin
