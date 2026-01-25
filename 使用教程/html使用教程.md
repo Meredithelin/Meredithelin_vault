@@ -10,3 +10,5 @@
 - `<strong>`
 - `<em>`
 - `<a>`(`<a href="#">`)
+- `<br>`
+- `<blockquote>`(`<blockquote cite="#">`)
