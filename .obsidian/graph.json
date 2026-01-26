@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:使用教程",
       "color": {
         "a": 1,
         "rgb": 9635334
+      }
+    },
+    {
+      "query": "tag:#日记  ",
+      "color": {
+        "a": 1,
+        "rgb": 624146
       }
     }
   ],
