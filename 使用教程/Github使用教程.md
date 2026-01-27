@@ -5,5 +5,6 @@
 # 2.功能
 - /explore
 - /search
+	- .md可搜教程
 - saved搜索预设
 - 
