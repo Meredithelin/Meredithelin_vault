@@ -7,3 +7,7 @@
 - /search
 	- .md可搜教程
 - saved搜索预设
+# 3.仓库
+- repository
+- gist轻量级，可存放代码
+- 
