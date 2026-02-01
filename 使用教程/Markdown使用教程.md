@@ -1,4 +1,4 @@
-# <center><font face="仿宋" color=dark size=20>*Markdown使用教程*</font><center>
+# <center><font face="仿宋" color=dark size=20>*Markdown使用教程*</font></center>
 ## *基本语法*
 ### 1.标题
 `#一级标题`
