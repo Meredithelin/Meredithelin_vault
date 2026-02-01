@@ -35,7 +35,7 @@ ctrl+l斜体
 _使用---或***即可_
 ### 7.删除线
 ~~你好~~
-在前后各加两个~~即可
+在前后各加两个`~~`即可
 ### 8.下划线
 <u>Meredithelin的个人小站</u><br>
 使用```<u>xxx</u>```即可
@@ -53,7 +53,7 @@ Meredithelin[^1]
 [这是Meredithelin的个人小站](https://meredithelin.github.io/)
 使用```[名称](链接)```即可
 ### 12.代码
-```c
+```cpp
 #include<stdio.h>
 int main()
 {
