@@ -36,10 +36,10 @@
       }
     },
     {
-      "query": "file:博彩ji'l",
+      "query": "file:博彩记录",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 2631720
       }
     }
   ],
@@ -54,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 336,
   "scale": 0.6586600406820445,
-  "close": false
+  "close": true
 }
