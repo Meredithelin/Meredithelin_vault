@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 9589472
       }
+    },
+    {
+      "query": "file:博彩ji'l",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -47,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 336,
   "scale": 0.6586600406820445,
-  "close": true
+  "close": false
 }
