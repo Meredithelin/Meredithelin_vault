@@ -2,6 +2,7 @@
 - Not Gate
 - And Gate
 - Nor Gate
+- Always on
 - 
 
 
