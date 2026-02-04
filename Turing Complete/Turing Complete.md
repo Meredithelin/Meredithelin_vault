@@ -1,1 +1,7 @@
-# 1.Nand Gate
+- Nand Gate
+- Not Gate
+- And Gate
+- Nor Gate
+- 
+
+
