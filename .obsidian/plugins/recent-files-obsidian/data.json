@@ -5,6 +5,10 @@
       "path": "我唱的歌/Waiting for love.md"
     },
     {
+      "basename": "珊瑚海",
+      "path": "我唱的歌/珊瑚海.md"
+    },
+    {
       "basename": "Turing Complete",
       "path": "Turing Complete/Turing Complete.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "投资",
       "path": "投资/投资.md"
-    },
-    {
-      "basename": "珊瑚海",
-      "path": "我唱的歌/珊瑚海.md"
     },
     {
       "basename": "我唱的歌",
