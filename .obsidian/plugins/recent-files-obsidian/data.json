@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Things to learn",
+      "path": "其他/Things to learn.md"
+    },
+    {
+      "basename": "2026-02-05",
+      "path": "日记/2026-02-05.md"
+    },
+    {
+      "basename": "2026-02-06",
+      "path": "日记/2026-02-06.md"
+    },
+    {
       "basename": "使用教程",
       "path": "使用教程/使用教程.md"
     },
     {
       "basename": "麻将教程",
       "path": "使用教程/麻将教程.md"
-    },
-    {
-      "basename": "2026-02-05",
-      "path": "日记/2026-02-05.md"
     },
     {
       "basename": "Vocabulary",
@@ -123,10 +131,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Things to learn",
-      "path": "其他/Things to learn.md"
     }
   ],
   "omittedPaths": [],

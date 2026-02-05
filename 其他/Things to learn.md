@@ -1,4 +1,4 @@
- - <font face=algerian color=  #f5000039 size=5>Things to learn
+ - Things to learn
   - [ ] github
   - [ ] latex
   - [ ] physics
@@ -9,3 +9,5 @@
   - [ ] 网络
   - [ ] 法学
   - [ ] 钢琴
+  - [ ] Linux
+  - [ ] 剪辑
