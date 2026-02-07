@@ -2,4 +2,5 @@
 - sequel = contiuation = follow-up 续集
 - villain 恶棍
 - vice president 副总统
-- slot
+- slot 缝隙，缺口
+- 
