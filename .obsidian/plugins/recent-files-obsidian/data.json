@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "每天要做的事",
-      "path": "Game Theory/每天要做的事.md"
+      "path": "每天要做的事.md"
+    },
+    {
+      "basename": "Things to learn",
+      "path": "Things to learn.md"
     },
     {
       "basename": "2026-02-08",
@@ -15,10 +19,6 @@
     {
       "basename": "Game Theory",
       "path": "Game Theory/Game Theory.md"
-    },
-    {
-      "basename": "Things to learn",
-      "path": "Things to learn.md"
     },
     {
       "basename": "法外狂徒张三",
@@ -170,7 +170,7 @@
     },
     {
       "basename": "人生哲理",
-      "path": "其他/人生哲理.md"
+      "path": "人生哲理.md"
     },
     {
       "basename": "投资",
@@ -186,7 +186,7 @@
     },
     {
       "basename": "学习方法",
-      "path": "其他/学习方法.md"
+      "path": "学习方法.md"
     },
     {
       "basename": "README",
