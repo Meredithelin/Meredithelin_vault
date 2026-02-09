@@ -5,8 +5,20 @@
       "path": "Game Theory/每天要做的事.md"
     },
     {
+      "basename": "2026-02-08",
+      "path": "日记/2026-02-08.md"
+    },
+    {
+      "basename": "2026-02-07",
+      "path": "日记/2026-02-07.md"
+    },
+    {
       "basename": "Game Theory",
       "path": "Game Theory/Game Theory.md"
+    },
+    {
+      "basename": "Things to learn",
+      "path": "Things to learn.md"
     },
     {
       "basename": "法外狂徒张三",
@@ -21,10 +33,6 @@
       "path": "刑法/刑法.md"
     },
     {
-      "basename": "2026-02-08",
-      "path": "日记/2026-02-08.md"
-    },
-    {
       "basename": "经济学",
       "path": "经济学/经济学.md"
     },
@@ -37,10 +45,6 @@
       "path": "浪尖儿/直播.md"
     },
     {
-      "basename": "2026-02-07",
-      "path": "日记/2026-02-07.md"
-    },
-    {
       "basename": "浪尖儿",
       "path": "浪尖儿/浪尖儿.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "心理学",
       "path": "心理学/心理学.md"
-    },
-    {
-      "basename": "Things to learn",
-      "path": "Things to learn.md"
     },
     {
       "basename": "Linux",
