@@ -3,4 +3,4 @@
 - villain 恶棍
 - vice president 副总统
 - slot 缝隙，缺口
-- zero in on a job
+- zero in on a job 集中精力，瞄准
