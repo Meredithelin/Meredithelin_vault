@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-02-09",
-      "path": "日记/2026-02-09.md"
-    },
-    {
-      "basename": "心理学",
-      "path": "心理学/心理学.md"
+      "basename": "人生哲理",
+      "path": "人生哲理.md"
     },
     {
       "basename": "Drawing 2026-02-08 19.00.58.excalidraw",
       "path": "刑法/Drawing 2026-02-08 19.00.58.excalidraw.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "经济学",
       "path": "经济学/经济学.md"
+    },
+    {
+      "basename": "每天要做的事",
+      "path": "每天要做的事.md"
+    },
+    {
+      "basename": "Things to learn",
+      "path": "Things to learn.md"
+    },
+    {
+      "basename": "2026-02-09",
+      "path": "日记/2026-02-09.md"
+    },
+    {
+      "basename": "心理学",
+      "path": "心理学/心理学.md"
     },
     {
       "basename": "Vocabulary",
@@ -45,16 +61,8 @@
       "path": "Game Theory/Game Theory.md"
     },
     {
-      "basename": "每天要做的事",
-      "path": "每天要做的事.md"
-    },
-    {
       "basename": "Excel使用教程",
       "path": "使用教程/Excel使用教程.md"
-    },
-    {
-      "basename": "Things to learn",
-      "path": "Things to learn.md"
     },
     {
       "basename": "麻将教程",
@@ -173,10 +181,6 @@
       "path": "投资/博彩记录.md"
     },
     {
-      "basename": "人生哲理",
-      "path": "人生哲理.md"
-    },
-    {
       "basename": "投资",
       "path": "投资/投资.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "学习方法",
       "path": "学习方法.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
