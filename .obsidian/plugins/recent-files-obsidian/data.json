@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "人生哲理",
+      "path": "人生哲理.md"
+    },
+    {
+      "basename": "博彩记录",
+      "path": "投资/博彩记录.md"
+    },
+    {
+      "basename": "2026-02-10",
+      "path": "日记/2026-02-10.md"
+    },
+    {
+      "basename": "刑法",
+      "path": "刑法/刑法.md"
+    },
+    {
+      "basename": "法外狂徒张三",
+      "path": "刑法/法外狂徒张三.md"
+    },
+    {
       "basename": "Coffee",
       "path": "Coffee/Coffee.md"
     },
     {
       "basename": "Markdown使用教程",
       "path": "使用教程/Markdown使用教程.md"
-    },
-    {
-      "basename": "人生哲理",
-      "path": "人生哲理.md"
     },
     {
       "basename": "Drawing 2026-02-08 19.00.58.excalidraw",
@@ -61,10 +77,6 @@
       "path": "日记/2026-02-08.md"
     },
     {
-      "basename": "刑法",
-      "path": "刑法/刑法.md"
-    },
-    {
       "basename": "Game Theory",
       "path": "Game Theory/Game Theory.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "麻将教程",
       "path": "使用教程/麻将教程.md"
-    },
-    {
-      "basename": "法外狂徒张三",
-      "path": "刑法/法外狂徒张三.md"
     },
     {
       "basename": "2026-02-06",
@@ -185,20 +193,12 @@
       "path": "我唱的歌/assets/Lonely together/Recording 20260202131005.m4a"
     },
     {
-      "basename": "博彩记录",
-      "path": "投资/博彩记录.md"
-    },
-    {
       "basename": "投资",
       "path": "投资/投资.md"
     },
     {
       "basename": "Lonely together",
       "path": "我唱的歌/Lonely together.md"
-    },
-    {
-      "basename": "Free Loop",
-      "path": "我唱的歌/Free Loop.md"
     }
   ],
   "omittedPaths": [],
