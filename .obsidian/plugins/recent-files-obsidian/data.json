@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Markdown使用教程",
+      "path": "使用教程/Markdown使用教程.md"
+    },
+    {
       "basename": "Coffee",
       "path": "Coffee/Coffee.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Free Loop",
       "path": "我唱的歌/Free Loop.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "学习方法.md"
     }
   ],
   "omittedPaths": [],
