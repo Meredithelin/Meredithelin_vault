@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "剪辑",
+      "path": "剪辑/剪辑.md"
+    },
+    {
       "basename": "Youtube",
       "path": "Youtube/Youtube.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-04",
       "path": "日记/2026-02-04.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "数据结构/数据结构.md"
     }
   ],
   "omittedPaths": [],
