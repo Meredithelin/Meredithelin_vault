@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "人生哲理",
+      "path": "人生哲理.md"
+    },
+    {
+      "basename": "每天要做的事",
+      "path": "每天要做的事.md"
+    },
+    {
       "basename": "Markdown使用教程",
       "path": "使用教程/Markdown使用教程.md"
     },
     {
       "basename": "健身",
       "path": "健身/健身.md"
-    },
-    {
-      "basename": "每天要做的事",
-      "path": "每天要做的事.md"
     },
     {
       "basename": "Things to learn",
@@ -27,10 +31,6 @@
     {
       "basename": "Rusty Lake",
       "path": "Rusty Lake/Rusty Lake.md"
-    },
-    {
-      "basename": "人生哲理",
-      "path": "人生哲理.md"
     },
     {
       "basename": "博彩记录",
