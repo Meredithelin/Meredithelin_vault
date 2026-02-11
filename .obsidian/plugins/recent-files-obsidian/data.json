@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hotel",
+      "path": "Rusty Lake/Hotel.md"
+    },
+    {
+      "basename": "Rusty Lake",
+      "path": "Rusty Lake/Rusty Lake.md"
+    },
+    {
       "basename": "人生哲理",
       "path": "人生哲理.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Recording 20260202131005",
       "path": "我唱的歌/assets/Lonely together/Recording 20260202131005.m4a"
-    },
-    {
-      "basename": "投资",
-      "path": "投资/投资.md"
-    },
-    {
-      "basename": "Lonely together",
-      "path": "我唱的歌/Lonely together.md"
     }
   ],
   "omittedPaths": [],

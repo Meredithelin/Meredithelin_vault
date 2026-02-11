@@ -1,0 +1,5 @@
+- deer
+- 野猪
+- 野鸡
+- Rabbit
+- pigeon
