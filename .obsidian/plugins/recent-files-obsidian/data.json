@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Markdown使用教程",
+      "path": "使用教程/Markdown使用教程.md"
+    },
+    {
+      "basename": "健身",
+      "path": "健身/健身.md"
+    },
+    {
       "basename": "每天要做的事",
       "path": "每天要做的事.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Coffee",
       "path": "Coffee/Coffee.md"
-    },
-    {
-      "basename": "Markdown使用教程",
-      "path": "使用教程/Markdown使用教程.md"
     },
     {
       "basename": "Drawing 2026-02-08 19.00.58.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "Recording 20260129141738",
       "path": "我唱的歌/assets/Stitches/Recording 20260129141738.m4a"
-    },
-    {
-      "basename": "Recording 20260202131005",
-      "path": "我唱的歌/assets/Lonely together/Recording 20260202131005.m4a"
     }
   ],
   "omittedPaths": [],
