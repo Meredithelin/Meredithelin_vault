@@ -41,9 +41,16 @@
         "a": 1,
         "rgb": 2631720
       }
+    },
+    {
+      "query": "path:Youtube  ",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 3.02213541666667,
