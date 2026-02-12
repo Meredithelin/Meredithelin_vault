@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "10分钟讲清楚 Prompt, Agent, MCP 是什么",
+      "path": "Youtube/10分钟讲清楚 Prompt, Agent, MCP 是什么.md"
+    },
+    {
+      "basename": "Youtube",
+      "path": "Youtube/Youtube.md"
+    },
+    {
       "basename": "Rusty Lake",
       "path": "Rusty Lake/Rusty Lake.md"
     },
     {
       "basename": "一口气说清外蒙古从中國獨立出去的真相，為什麼西藏、新疆不行？【文昭思緒飛揚486期】",
       "path": "Youtube/一口气说清外蒙古从中國獨立出去的真相，為什麼西藏、新疆不行？【文昭思緒飛揚486期】.md"
-    },
-    {
-      "basename": "Youtube",
-      "path": "Youtube/Youtube.md"
     },
     {
       "basename": "Trae",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-01",
       "path": "日记/2026-02-01.md"
-    },
-    {
-      "basename": "2026-02-02",
-      "path": "日记/2026-02-02.md"
     }
   ],
   "omittedPaths": [],
