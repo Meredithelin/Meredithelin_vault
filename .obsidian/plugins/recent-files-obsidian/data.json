@@ -5,6 +5,14 @@
       "path": "剪辑/剪辑.md"
     },
     {
+      "basename": "Excel使用教程",
+      "path": "使用教程/Excel使用教程.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "数据结构/数据结构.md"
+    },
+    {
       "basename": "Youtube",
       "path": "Youtube/Youtube.md"
     },
@@ -109,10 +117,6 @@
       "path": "Game Theory/Game Theory.md"
     },
     {
-      "basename": "Excel使用教程",
-      "path": "使用教程/Excel使用教程.md"
-    },
-    {
       "basename": "麻将教程",
       "path": "使用教程/麻将教程.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-03",
       "path": "日记/2026-02-03.md"
-    },
-    {
-      "basename": "2026-02-04",
-      "path": "日记/2026-02-04.md"
     }
   ],
   "omittedPaths": [],
