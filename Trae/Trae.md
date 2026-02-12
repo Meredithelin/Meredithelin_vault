@@ -1,4 +1,4 @@
-### Gemini code assist
+# Gemini code assist
 - **文本分析**  
     打开一个文件，输入时获取代码建议，按 Tab 键接受建议。
     
