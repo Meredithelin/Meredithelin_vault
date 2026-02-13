@@ -9,6 +9,10 @@
       "path": "Rusty Lake/Rusty Lake.md"
     },
     {
+      "basename": "Vscode常用快捷键",
+      "path": "Youtube/Vscode常用快捷键.md"
+    },
+    {
       "basename": "Youtube",
       "path": "Youtube/Youtube.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-31",
       "path": "日记/2026-01-31.md"
-    },
-    {
-      "basename": "2026-02-01",
-      "path": "日记/2026-02-01.md"
     }
   ],
   "omittedPaths": [],
