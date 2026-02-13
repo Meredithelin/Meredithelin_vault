@@ -1,3 +1,4 @@
+![](assets/10分钟讲清楚%20Prompt,%20Agent,%20MCP%20是什么/file-20260213094658423.png)
 视频通过简单语言解释了Prompt、Agent、MCP和Function Calling的概念，详细介绍了它们的关系与应用场景，并探讨了AI技术发展的潜在影响和个人应对方式。
 Detailed Summary for [
     
