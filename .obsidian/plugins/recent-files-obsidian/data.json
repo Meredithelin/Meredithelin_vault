@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Web开发者工具",
+      "path": "Web开发者工具/Web开发者工具.md"
+    },
+    {
       "basename": "Linux",
       "path": "Linux/Linux.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-29",
       "path": "日记/2026-01-29.md"
-    },
-    {
-      "basename": "2026-01-30",
-      "path": "日记/2026-01-30.md"
     }
   ],
   "omittedPaths": [],
