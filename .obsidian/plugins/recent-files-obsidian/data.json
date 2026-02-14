@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Web",
+      "path": "Web page/Web.md"
+    },
+    {
       "basename": "Suno使用教程",
       "path": "使用教程/Suno使用教程.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-26",
       "path": "日记/2026-01-26.md"
-    },
-    {
-      "basename": "2026-01-28",
-      "path": "日记/2026-01-28.md"
     }
   ],
   "omittedPaths": [],
