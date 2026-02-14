@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Vscode常用快捷键",
+      "path": "Youtube/Vscode常用快捷键.md"
+    },
+    {
+      "basename": "Youtube",
+      "path": "Youtube/Youtube.md"
+    },
+    {
       "basename": "Linux",
       "path": "Linux/Linux.md"
     },
@@ -13,16 +21,8 @@
       "path": "Trae/Trae.md"
     },
     {
-      "basename": "Vscode常用快捷键",
-      "path": "Youtube/Vscode常用快捷键.md"
-    },
-    {
       "basename": "揭秘华尔街最贵公式：他如何靠数学赚走1000亿？数学能破解股市吗？",
       "path": "Youtube/揭秘华尔街最贵公式：他如何靠数学赚走1000亿？数学能破解股市吗？.md"
-    },
-    {
-      "basename": "Youtube",
-      "path": "Youtube/Youtube.md"
     },
     {
       "basename": "10分钟讲清楚 Prompt, Agent, MCP 是什么",
