@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "表达",
+      "path": "表达/表达.md"
+    },
+    {
       "basename": "AI",
       "path": "AI/AI.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "珊瑚海",
       "path": "我唱的歌/珊瑚海.md"
-    },
-    {
-      "basename": "Turing Complete",
-      "path": "Turing Complete/Turing Complete.md"
     }
   ],
   "omittedPaths": [],
