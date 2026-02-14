@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Web",
-      "path": "Web page/Web.md"
+      "basename": "AI",
+      "path": "AI/AI.md"
     },
     {
       "basename": "Suno使用教程",
       "path": "使用教程/Suno使用教程.md"
+    },
+    {
+      "basename": "Coffee",
+      "path": "Coffee/Coffee.md"
+    },
+    {
+      "basename": "Web",
+      "path": "Web page/Web.md"
     },
     {
       "basename": "Vscode常用快捷键",
@@ -109,10 +117,6 @@
       "path": "刑法/法外狂徒张三.md"
     },
     {
-      "basename": "Coffee",
-      "path": "Coffee/Coffee.md"
-    },
-    {
       "basename": "Drawing 2026-02-08 19.00.58.excalidraw",
       "path": "刑法/Drawing 2026-02-08 19.00.58.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Turing Complete",
       "path": "Turing Complete/Turing Complete.md"
-    },
-    {
-      "basename": "2026-01-26",
-      "path": "日记/2026-01-26.md"
     }
   ],
   "omittedPaths": [],
