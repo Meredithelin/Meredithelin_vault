@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Suno使用教程",
+      "path": "使用教程/Suno使用教程.md"
+    },
+    {
       "basename": "Vscode常用快捷键",
       "path": "Youtube/Vscode常用快捷键.md"
     },
@@ -10,7 +14,7 @@
     },
     {
       "basename": "Linux",
-      "path": "Linux/Linux.md"
+      "path": "使用教程/Linux使用教程/Linux.md"
     },
     {
       "basename": "Web开发者工具",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-28",
       "path": "日记/2026-01-28.md"
-    },
-    {
-      "basename": "2026-01-29",
-      "path": "日记/2026-01-29.md"
     }
   ],
   "omittedPaths": [],
