@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "History",
+      "path": "History/History.md"
+    },
+    {
       "basename": "魔术",
       "path": "魔术/魔术.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-05",
       "path": "日记/2026-02-05.md"
-    },
-    {
-      "basename": "使用教程",
-      "path": "使用教程/使用教程.md"
     }
   ],
   "omittedPaths": [],
