@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "魔术",
+      "path": "魔术/魔术.md"
+    },
+    {
       "basename": "Vocabulary",
       "path": "英语/Vocabulary.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "使用教程",
       "path": "使用教程/使用教程.md"
-    },
-    {
-      "basename": "我唱的歌",
-      "path": "我唱的歌/我唱的歌.md"
     }
   ],
   "omittedPaths": [],
