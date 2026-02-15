@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "魔术",
+      "path": "魔术/魔术.md"
+    },
+    {
+      "basename": "Suno使用教程",
+      "path": "使用教程/Suno使用教程.md"
+    },
+    {
+      "basename": "直播",
+      "path": "浪尖儿/直播.md"
+    },
+    {
+      "basename": "Trae",
+      "path": "Trae/Trae.md"
+    },
+    {
+      "basename": "不能说的秘密",
+      "path": "我唱的歌/不能说的秘密.md"
+    },
+    {
       "basename": "History",
       "path": "History/History.md"
     },
     {
       "basename": "经济学",
       "path": "经济学/经济学.md"
-    },
-    {
-      "basename": "魔术",
-      "path": "魔术/魔术.md"
     },
     {
       "basename": "Vocabulary",
@@ -31,10 +47,6 @@
     {
       "basename": "AI",
       "path": "AI/AI.md"
-    },
-    {
-      "basename": "Suno使用教程",
-      "path": "使用教程/Suno使用教程.md"
     },
     {
       "basename": "Coffee",
@@ -59,10 +71,6 @@
     {
       "basename": "Web开发者工具",
       "path": "Web开发者工具/Web开发者工具.md"
-    },
-    {
-      "basename": "Trae",
-      "path": "Trae/Trae.md"
     },
     {
       "basename": "揭秘华尔街最贵公式：他如何靠数学赚走1000亿？数学能破解股市吗？",
@@ -181,10 +189,6 @@
       "path": "日记/2026-02-06.md"
     },
     {
-      "basename": "直播",
-      "path": "浪尖儿/直播.md"
-    },
-    {
       "basename": "搜索技术教程",
       "path": "使用教程/搜索技术教程/搜索技术教程.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "日语",
       "path": "日语/日语.md"
-    },
-    {
-      "basename": "2026-02-05",
-      "path": "日记/2026-02-05.md"
     }
   ],
   "omittedPaths": [],
