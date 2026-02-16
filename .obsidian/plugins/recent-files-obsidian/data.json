@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Templates.history",
-      "path": "History/Templates.history.md"
+      "basename": "克格勃",
+      "path": "History/克格勃.md"
     },
     {
-      "basename": "未命名 2",
-      "path": "History/未命名 2.md"
+      "basename": "Templates.history",
+      "path": "日记/Templates.history.md"
+    },
+    {
+      "basename": "History",
+      "path": "History/History.md"
     },
     {
       "basename": "未命名 1",
       "path": "History/未命名 1.md"
     },
     {
-      "basename": "未命名",
-      "path": "History/未命名.md"
+      "basename": "未命名 2",
+      "path": "History/未命名 2.md"
     },
     {
-      "basename": "克格勃",
-      "path": "History/克格勃.md"
+      "basename": "2026-01-24",
+      "path": "日记/2026-01-24.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "History/未命名.md"
     },
     {
       "basename": "You said  为什么在中国钱越来越难赚，前都去哪了，不是生产力一直在发展吗",
@@ -27,10 +35,6 @@
     {
       "basename": "YAML使用教程",
       "path": "使用教程/YAML使用教程.md"
-    },
-    {
-      "basename": "History",
-      "path": "History/History.md"
     },
     {
       "basename": "Google NotebookLM  Note Taking & Research Assistant Powered by AI",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-27",
       "path": "日记/2026-01-27.md"
-    },
-    {
-      "basename": "2026-02-07",
-      "path": "日记/2026-02-07.md"
     }
   ],
   "omittedPaths": [],
