@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "History",
+      "path": "History/History.md"
+    },
+    {
       "basename": "Google NotebookLM  Note Taking & Research Assistant Powered by AI",
       "path": "Clippings/Google NotebookLM  Note Taking & Research Assistant Powered by AI.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "未命名 1",
       "path": "History/未命名 1.md"
-    },
-    {
-      "basename": "History",
-      "path": "History/History.md"
     },
     {
       "basename": "未命名",
@@ -79,10 +79,6 @@
     {
       "basename": "Coffee",
       "path": "Coffee/Coffee.md"
-    },
-    {
-      "basename": "Web",
-      "path": "Web page/Web.md"
     },
     {
       "basename": "Vscode常用快捷键",
