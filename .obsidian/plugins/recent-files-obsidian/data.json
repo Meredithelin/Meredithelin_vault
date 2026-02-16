@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "History",
+      "path": "History/History.md"
+    },
+    {
+      "basename": "汕头大火",
+      "path": "History/汕头大火.md"
+    },
+    {
+      "basename": "克格勃",
+      "path": "History/克格勃.md"
+    },
+    {
       "basename": "Trae",
       "path": "Trae/Trae.md"
     },
@@ -31,18 +43,6 @@
     {
       "basename": "每天要做的事",
       "path": "每天要做的事.md"
-    },
-    {
-      "basename": "汕头大火",
-      "path": "History/汕头大火.md"
-    },
-    {
-      "basename": "History",
-      "path": "History/History.md"
-    },
-    {
-      "basename": "克格勃",
-      "path": "History/克格勃.md"
     },
     {
       "basename": "Templates.history",
