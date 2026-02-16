@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "克格勃",
+      "path": "History/克格勃.md"
+    },
+    {
+      "basename": "History",
+      "path": "History/History.md"
+    },
+    {
+      "basename": "表达",
+      "path": "表达/表达.md"
+    },
+    {
       "basename": "搜索技术教程",
       "path": "使用教程/搜索技术教程/搜索技术教程.md"
     },
     {
       "basename": "Vocabulary",
       "path": "英语/Vocabulary.md"
-    },
-    {
-      "basename": "表达",
-      "path": "表达/表达.md"
     },
     {
       "basename": "Google NotebookLM  Note Taking & Research Assistant Powered by AI",
@@ -35,10 +43,6 @@
     {
       "basename": "不能说的秘密",
       "path": "我唱的歌/不能说的秘密.md"
-    },
-    {
-      "basename": "History",
-      "path": "History/History.md"
     },
     {
       "basename": "经济学",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-06",
       "path": "日记/2026-02-06.md"
-    },
-    {
-      "basename": "常见图片尺寸",
-      "path": "使用教程/搜索技术教程/常见图片尺寸.md"
     }
   ],
   "omittedPaths": [],

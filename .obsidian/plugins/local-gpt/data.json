@@ -1,11 +1,11 @@
 {
   "aiProviders": {
-    "main": "",
-    "embedding": "",
-    "vision": null
+    "main": "id-1771224959156",
+    "embedding": "id-1771224959156",
+    "vision": "id-1771224959156"
   },
   "defaults": {
-    "creativity": "low",
+    "creativity": "medium",
     "contextLimit": "local"
   },
   "actions": [
