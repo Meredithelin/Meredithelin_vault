@@ -7,3 +7,4 @@
 - configure 配置
 - armpit 腋下
 - apron 围裙
+- manifest 显示
