@@ -1,7 +1,7 @@
 {
   "userId": "a1d66fa5-c46e-49ed-a507-1e31559fdfe4",
   "isPlusUser": false,
-  "plusLicenseKey": "",
+  "plusLicenseKey": "sk-zsapyoxglbvaltwhtquxvlfsjbramzfvmhzfglzdlsodljmh",
   "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
@@ -19,7 +19,7 @@
   "deepseekApiKey": "",
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
-  "siliconflowApiKey": "",
+  "siliconflowApiKey": "sk-zsapyoxglbvaltwhtquxvlfsjbramzfvmhzfglzdlsodljmh",
   "githubCopilotAccessToken": "",
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
