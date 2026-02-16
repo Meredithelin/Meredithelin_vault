@@ -300,7 +300,9 @@
       "apiKey": "",
       "isEmbeddingModel": false,
       "capabilities": [],
-      "stream": true
+      "stream": true,
+      "temperature": 0.24,
+      "maxTokens": 11800
     }
   ],
   "activeEmbeddingModels": [
