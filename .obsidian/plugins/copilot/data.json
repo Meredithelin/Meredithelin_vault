@@ -12,19 +12,19 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "AIzaSyC8zQIt4azt67rti6U0KGCebP3s8aVr1zM",
+  "googleApiKey": "",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
   "deepseekApiKey": "",
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
-  "siliconflowApiKey": "sk-zsapyoxglbvaltwhtquxvlfsjbramzfvmhzfglzdlsodljmh",
-  "githubCopilotAccessToken": "",
-  "githubCopilotToken": "",
-  "githubCopilotTokenExpiresAt": 0,
+  "siliconflowApiKey": "",
+  "githubCopilotAccessToken": "ghu_2j6FD7XZWk6tKQNyIXh6lg141kakJf1mDYAG",
+  "githubCopilotToken": "tid=45da432f36f758ecf75660c88a15746c;exp=1771293726;sku=free_limited_copilot;proxy-ep=proxy.individual.githubcopilot.com;st=dotcom;chat=1;cit=1;malfil=1;editor_preview_features=1;agent_mode=1;agent_mode_auto_approval=1;mcp=1;rt=1;8kp=1;ip=203.168.241.49;asn=AS17497;cq=3983;rd=1771891200:af9fcbea96be31f5b885113e71f86030365318a2fd7edf71bfac5eb7a5aeafda",
+  "githubCopilotTokenExpiresAt": 1771293726000,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "deepseek-reasoner|deepseek",
+  "defaultModelKey": "gemini-2.5-flash|google",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -258,14 +258,14 @@
     {
       "name": "deepseek-ai/DeepSeek-V3",
       "provider": "siliconflow",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "https://api.siliconflow.com/v1"
     },
     {
       "name": "deepseek-ai/DeepSeek-R1",
       "provider": "siliconflow",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "https://api.siliconflow.com/v1",
       "capabilities": [
@@ -356,7 +356,8 @@
       "provider": "google",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "enableCors": true
     },
     {
       "name": "azure-openai",
