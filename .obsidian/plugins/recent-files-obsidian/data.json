@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "History",
+      "path": "History/History.md"
+    },
+    {
       "basename": "汕头大火",
       "path": "History/汕头大火.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Templates.history",
       "path": "日记/Templates.history.md"
-    },
-    {
-      "basename": "History",
-      "path": "History/History.md"
     },
     {
       "basename": "未命名 1",
