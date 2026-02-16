@@ -24,5 +24,6 @@
   "obsidian-text-format",
   "local-gpt",
   "ai-providers",
-  "copilot"
+  "copilot",
+  "execute-code"
 ]
