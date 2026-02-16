@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Templates.history",
+      "path": "History/Templates.history.md"
+    },
+    {
       "basename": "未命名 2",
       "path": "History/未命名 2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-07",
       "path": "日记/2026-02-07.md"
-    },
-    {
-      "basename": "浪尖儿",
-      "path": "浪尖儿/浪尖儿.md"
     }
   ],
   "omittedPaths": [],
