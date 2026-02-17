@@ -1,43 +1,43 @@
-# Meredithelin's Digital Vault
+# Meredithelin 的数字知识库
 
-Welcome to my personal knowledge vault, a digital garden where I cultivate and connect ideas. This repository is managed using [Obsidian](https://obsidian.md).
+欢迎来到我的个人数字花园和知识库。这个仓库是一个收集、整理和探索我学习与思考的地方，由 [Obsidian](https://obsidian.md) 驱动。
 
-## Overview
+## 概览
 
-This vault is a collection of my notes, thoughts, and learnings on a wide range of topics. It's a space for exploration, reflection, and growth.
+这个知识库汇集了我的笔记、思考和在广泛主题上的学习内容。它是一个用于探索、反思和成长的空间。
 
-## Core Topics
+## 核心主题
 
-The vault is organized around several key areas of interest:
+知识库围绕几个主要的兴趣领域组织：
 
-### 🧠 Learning & Philosophy
-*   [学习方法](./学习方法.md) (Learning Methods)
-*   [人生哲理](./人生哲理.md) (Life Philosophy)
-*   [心理学](./心理学/心理学.md) (Psychology)
-*   [经济学](./经济学/经济学.md) (Economics)
-*   [Game Theory](./Game%20Theory/Game%20Theory.md)
+### 🧠 学习与哲学
+*   [学习方法](./学习方法.md)
+*   [人生哲理](./人生哲理.md)
+*   [心理学](./心理学/心理学.md)
+*   [经济学](./经济学/经济学.md)
+*   [博弈论](./Game%20Theory/Game%20Theory.md)
 
-### 💻 Technology & Programming
+### 💻 技术与编程
 *   [AI](./AI/AI.md)
-*   [数据结构](./数据结构/数据结构.md) (Data Structures)
-*   [Web开发者工具](./Web开发者工具/Web开发者工具.md) (Web Developer Tools)
-*   [使用教程](./使用教程/使用教程.md) (Tutorials)
+*   [数据结构](./数据结构/数据结构.md)
+*   [Web开发者工具](./Web开发者工具/Web开发者工具.md)
+*   [使用教程](./使用教程/使用教程.md)
 
-### 🎨 Hobbies & Lifestyle
-*   [健身](./健身/健身.md) (Fitness)
-*   [投资](./投资/投资.md) (Investing)
-*   [魔术](./魔术/魔术.md) (Magic)
-*   [Coffee](./Coffee/Coffee.md)
-*   [我唱的歌](./我唱的歌/我唱的歌.md) (Songs I Sing)
+### 🎨 爱好与生活方式
+*   [健身](./健身/健身.md)
+*   [投资](./投资/投资.md)
+*   [魔术](./魔术/魔术.md)
+*   [咖啡](./Coffee/Coffee.md)
+*   [我唱的歌](./我唱的歌/我唱的歌.md)
 
-### 🌐 Languages
-*   [日语](./日语/日语.md) (Japanese)
-*   [英语](./英语/Vocabulary.md) (English)
+### 🌐 语言学习
+*   [日语](./日语/日语.md)
+*   [英语](./英语/Vocabulary.md)
 
-### ✍️ Daily Logs
-*   [日记](./日记/) (Diary)
-*   [每天要做的事](./每天要做的事.md) (Daily To-Do)
+### ✍️ 日常记录
+*   [日记](./日记/)
+*   [每天要做的事](./每天要做的事.md)
 
 ---
 
-This vault is a continuous work in progress. Feel free to browse and see what I'm up to.
+这个知识库持续更新中。欢迎随时浏览，了解我的学习和思考。
