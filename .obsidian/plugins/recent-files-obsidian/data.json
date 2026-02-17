@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "History",
-      "path": "History/History.md"
+      "basename": "Linux",
+      "path": "使用教程/Linux使用教程/Linux.md"
     },
     {
       "basename": "克格勃",
@@ -11,6 +11,10 @@
     {
       "basename": "汕头大火",
       "path": "History/汕头大火.md"
+    },
+    {
+      "basename": "History",
+      "path": "History/History.md"
     },
     {
       "basename": "Trae",
@@ -103,10 +107,6 @@
     {
       "basename": "Youtube",
       "path": "Youtube/Youtube.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "使用教程/Linux使用教程/Linux.md"
     },
     {
       "basename": "Web开发者工具",

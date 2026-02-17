@@ -1,39 +1,43 @@
-# Meredithelin Vault
+# Meredithelin's Digital Vault
 
-这是一个个人知识库和笔记管理项目，由用户 Meredithelin 创建和维护。该项目基于 Obsidian 笔记软件，用于管理和组织个人的学习笔记、日记、投资信息、经济学知识、英语学习等多个主题的内容。
+Welcome to my personal knowledge vault, a digital garden where I cultivate and connect ideas. This repository is managed using [Obsidian](https://obsidian.md).
 
-## 主要功能
+## Overview
 
-- **多主题笔记管理**：包括投资、经济学、英语等领域的笔记
-- **日记记录功能**：记录个人日常生活和思考
-- **学习教程**：提供学习方法和资源的文档
-- **自动化备份系统**：通过 `vault backup` 实现数据自动备份
-- **Obsidian 集成**：与 Obsidian 本地笔记库无缝对接
-- **个人哲学思考**：记录人生感悟和哲学思考
+This vault is a collection of my notes, thoughts, and learnings on a wide range of topics. It's a space for exploration, reflection, and growth.
 
-## 技术栈
+## Core Topics
 
-- **Obsidian**：主要笔记应用
-- **Git**：版本控制系统
-- **JSON**：数据存储格式 (.infio_json_db)
-- **Markdown**：文档格式
+The vault is organized around several key areas of interest:
 
-## 安装与使用
+### 🧠 Learning & Philosophy
+*   [学习方法](./学习方法.md) (Learning Methods)
+*   [人生哲理](./人生哲理.md) (Life Philosophy)
+*   [心理学](./心理学/心理学.md) (Psychology)
+*   [经济学](./经济学/经济学.md) (Economics)
+*   [Game Theory](./Game%20Theory/Game%20Theory.md)
 
-1. 克隆该项目到本地：
-   ```bash
-   git clone https://github.com/Meredithelin/Meredithelin_vault.git
-   ```
+### 💻 Technology & Programming
+*   [AI](./AI/AI.md)
+*   [数据结构](./数据结构/数据结构.md) (Data Structures)
+*   [Web开发者工具](./Web开发者工具/Web开发者工具.md) (Web Developer Tools)
+*   [使用教程](./使用教程/使用教程.md) (Tutorials)
 
-2. 打开 Obsidian，选择已克隆的文件夹作为你的笔记库。
+### 🎨 Hobbies & Lifestyle
+*   [健身](./健身/健身.md) (Fitness)
+*   [投资](./投资/投资.md) (Investing)
+*   [魔术](./魔术/魔术.md) (Magic)
+*   [Coffee](./Coffee/Coffee.md)
+*   [我唱的歌](./我唱的歌/我唱的歌.md) (Songs I Sing)
 
-3. 根据需要创建和管理你的笔记。
+### 🌐 Languages
+*   [日语](./日语/日语.md) (Japanese)
+*   [英语](./英语/Vocabulary.md) (English)
 
-## 许可证
+### ✍️ Daily Logs
+*   [日记](./日记/) (Diary)
+*   [每天要做的事](./每天要做的事.md) (Daily To-Do)
 
-未指定许可证。
+---
 
-## 更新记录
-
-- 最后更新于：2026年1月26日
-- 提交记录：102 次
+This vault is a continuous work in progress. Feel free to browse and see what I'm up to.
