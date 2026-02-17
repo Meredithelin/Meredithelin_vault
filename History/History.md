@@ -1,4 +1,4 @@
-```aat-vertical
+```aat-h
 history
 ```
 
