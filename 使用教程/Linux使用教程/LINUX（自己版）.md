@@ -12,4 +12,7 @@
 - `cp -r`
 - `rm -r`
 - `ctrl+c`终止
+- `ctrl+l`\=\=clear
+- 
+- 
 - 
