@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vocabulary",
+      "path": "英语/Vocabulary.md"
+    },
+    {
       "basename": "Linux",
       "path": "使用教程/Linux使用教程/Linux.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "表达",
       "path": "表达/表达.md"
-    },
-    {
-      "basename": "Vocabulary",
-      "path": "英语/Vocabulary.md"
     },
     {
       "basename": "Suno使用教程",

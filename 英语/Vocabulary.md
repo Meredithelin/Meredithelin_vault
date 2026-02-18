@@ -8,3 +8,5 @@
 - armpit 腋下
 - apron 围裙
 - manifest 显示
+- manual 手册
+- 
