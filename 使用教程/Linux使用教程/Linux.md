@@ -72,15 +72,15 @@ _注意：输入密码时，屏幕上不会显示任何字符。这是 Linux 的
 ### Part 3: File and Directory Operations
 #### (第三部分：文件与目录操作命令大全)
 
-| 命令 | 功能描述 | 常用示例 |
-| :--- | :--- | :--- |
-| `ls -a` | 列出所有文件，包括以 `.` 开头的隐藏文件。 | `ls -a` |
-| `ls -l` | (long) 以长格式详细列出文件信息（权限、所有者、大小、修改日期）。 | `ls -l` |
-| `ls -h` | (human-readable) 配合 `-l` 使用，以易于阅读的格式（如 KB, MB）显示文件大小。 | `ls -lh` |
-| `cp` | (Copy) 复制文件或目录。 | `cp source.txt destination.txt` (复制文件)<br>`cp -r source_dir/ dest_dir/` (递归复制目录) |
-| `mv` | (Move) 移动文件/目录，或对其进行重命名。 | `mv old_name.txt new_name.txt` (重命名)<br>`mv my_file.txt ../` (移动到上级目录) |
-| `find` | 在指定目录中查找文件。 | `find . -name "*.js"` (查找当前目录下所有 .js 文件)<br>`find /home -user bob` (查找/home下属于bob的文件) |
-| `locate` | 快速定位文件（基于数据库，比 `find` 快但可能不是最新的）。 | `locate my_document.pdf` |
+| 命令       | 功能描述                                                  | 常用示例                                                                                  |
+| :------- | :---------------------------------------------------- | :------------------------------------------------------------------------------------ |
+| `ls -a`  | 列出所有文件，包括以 `.` 开头的隐藏文件。                               | `ls -a`                                                                               |
+| `ls -l`  | (long) 以长格式详细列出文件信息（权限、所有者、大小、修改日期）。                  | `ls -l`                                                                               |
+| `ls -h`  | (human-readable) 配合 `-l` 使用，以易于阅读的格式（如 KB, MB）显示文件大小。 | `ls -lh`                                                                              |
+| `cp`     | (Copy) 复制文件或目录。                                       | `cp source.txt destination.txt` (复制文件)<br>`cp -r source_dir/ dest_dir/` (递归复制目录)      |
+| `mv`     | (Move) 移动文件/目录，或对其进行重命名。                              | `mv old_name.txt new_name.txt` (重命名)<br>`mv my_file.txt ../` (移动到上级目录)                |
+| `find`   | 在指定目录中查找文件。                                           | `find . -name "*.js"` (查找当前目录下所有 .js 文件)<br>`find /home -user bob` (查找/home下属于bob的文件) |
+| `locate` | 快速定位文件（基于数据库，比 `find` 快但可能不是最新的）。                     | `locate my_document.pdf`                                                              |
 
 ---
 
