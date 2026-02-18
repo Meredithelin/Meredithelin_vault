@@ -43,16 +43,16 @@ _注意：输入密码时，屏幕上不会显示任何字符。这是 Linux 的
 
 设置完成后，您将看到 Linux 命令提示符，通常类似于 `your_username@hostname:~$`。这里有一些最基本的命令让您入门：
 
-| 命令 | 完整名称 | 功能描述 |
-| :--- | :--- | :--- |
-| `ls` | List | 列出当前目录下的文件和文件夹。 |
-| `pwd` | Print Working Directory | 显示您当前所在的完整路径。 |
-| `cd` | Change Directory | 切换目录。`cd ..` 返回上一级，`cd ~` 返回主目录。 |
-| `mkdir` | Make Directory | 创建一个新的目录。例如 `mkdir my_project`。 |
-| `touch` | Touch | 创建一个空文件。例如 `touch notes.txt`。 |
-| `rm` | Remove | 删除文件。例如 `rm notes.txt`。**此操作不可逆，请谨慎使用！** |
-| `rmdir`| Remove Directory | 删除一个 **空** 目录。 |
-| `clear`| Clear | 清空终端屏幕上的所有内容。 |
+| 命令      | 完整名称                    | 功能描述                                     |
+| :------ | :---------------------- | :--------------------------------------- |
+| `ls`    | List                    | 列出当前目录下的文件和文件夹。                          |
+| `pwd`   | Print Working Directory | 显示您当前所在的完整路径。                            |
+| `cd`    | Change Directory        | 切换目录。`cd ..` 返回上一级，`cd ~` 返回主目录。         |
+| `mkdir` | Make Directory          | 创建一个新的目录。例如 `mkdir my_project`。          |
+| `touch` | Touch                   | 创建一个空文件。例如 `touch notes.txt`。            |
+| `rm`    | Remove                  | 删除文件。例如 `rm notes.txt`。**此操作不可逆，请谨慎使用！** |
+| `rmdir` | Remove Directory        | 删除一个 **空** 目录。                           |
+| `clear` | Clear                   | 清空终端屏幕上的所有内容。                            |
 
 ---
 
