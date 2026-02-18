@@ -72,31 +72,31 @@ _注意：输入密码时，屏幕上不会显示任何字符。这是 Linux 的
 ### Part 3: File and Directory Operations
 #### (第三部分：文件与目录操作命令大全)
 
-| 命令       | 功能描述                                                  | 常用示例                                                                                  |
-| :------- | :---------------------------------------------------- | :------------------------------------------------------------------------------------ |
-| `ls -a`  | 列出所有文件，包括以 `.` 开头的隐藏文件。                               | `ls -a`                                                                               |
-| `ls -l`  | (long) 以长格式详细列出文件信息（权限、所有者、大小、修改日期）。                  | `ls -l`                                                                               |
-| `ls -h`  | (human-readable) 配合 `-l` 使用，以易于阅读的格式（如 KB, MB）显示文件大小。 | `ls -lh`                                                                              |
-| `cp`     | (Copy) 复制文件或目录。                                       | `cp source.txt destination.txt` (复制文件)<br>`cp -r source_dir/ dest_dir/` (递归复制目录)      |
-| `mv`     | (Move) 移动文件/目录，或对其进行重命名。                              | `mv old_name.txt new_name.txt` (重命名)<br>`mv my_file.txt ../` (移动到上级目录)                |
-| `find`   | 在指定目录中查找文件。                                           | `find . -name "*.js"` (查找当前目录下所有 .js 文件)<br>`find /home -user bob` (查找/home下属于bob的文件) |
-| `locate` | 快速定位文件（基于数据库，比 `find` 快但可能不是最新的）。                     | `locate my_document.pdf`                                                              |
+| 命令 | 功能描述 | 常用示例 |
+| :--- | :--- | :--- |
+| `ls -a` | 列出所有文件，包括以 `.` 开头的隐藏文件。 | `ls -a` |
+| `ls -l` | (long) 以长格式详细列出文件信息（权限、所有者、大小、修改日期）。 | `ls -l` |
+| `ls -h` | (human-readable) 配合 `-l` 使用，以易于阅读的格式（如 KB, MB）显示文件大小。 | `ls -lh` |
+| `cp` | (Copy) 复制文件或目录。 | `cp source.txt destination.txt` (复制文件)<br>`cp -r source_dir/ dest_dir/` (递归复制目录) |
+| `mv` | (Move) 移动文件/目录，或对其进行重命名。 | `mv old_name.txt new_name.txt` (重命名)<br>`mv my_file.txt ../` (移动到上级目录) |
+| `find` | 在指定目录中查找文件。 | `find . -name "*.js"` (查找当前目录下所有 .js 文件)<br>`find /home -user bob` (查找/home下属于bob的文件) |
+| `locate` | 快速定位文件（基于数据库，比 `find` 快但可能不是最新的）。 | `locate my_document.pdf` |
 
 ---
 
 ### Part 4: Text Viewing and Processing
 #### (第四部分：文本查看与处理)
 
-| 命令 | 功能描述 | 常用示例 |
-| :--- | :--- | :--- |
-| `cat` | (Concatenate) 查看小型文件的全部内容。 | `cat file.txt` |
-| `less` | 以可翻页的方式查看大型文件（推荐）。 | `less long_log.log` (使用箭头键导航, 按 `q` 退出) |
-| `head` | 查看文件的前N行（默认10行）。 | `head -n 20 file.txt` (查看前20行) |
-| `tail` | 查看文件的后N行（默认10行）。 | `tail -n 50 file.txt` (查看后50行)<br>`tail -f app.log` (实时跟踪文件更新) |
-| `grep` | (Global Regular Expression Print) 在文本中搜索匹配的行。 | `grep "error" app.log` (查找包含"error"的行)<br>`grep -i "hello" file.txt` (-i 忽略大小写) |
-| `|` | **管道 (Pipe)**：将一个命令的输出作为另一个命令的输入。 | `cat data.txt | grep "user_id"` (在文件内容中搜索) |
-| `>` / `>>`| **重定向 (Redirection)**：`>` 将输出写入文件（覆盖），`>>` 将输出追加到文件末尾。 | `ls -l > file_list.txt` (将列表保存到文件) |
-| `wc` | (Word Count) 统计文件的行数、单词数和字符数。 | `wc -l file.txt` (只统计行数) |
+| 命令         | 功能描述                                                   | 常用示例                                                                            |               |                            |
+| :--------- | :----------------------------------------------------- | :------------------------------------------------------------------------------ | ------------- | -------------------------- |
+| `cat`      | (Concatenate) 查看小型文件的全部内容。                             | `cat file.txt`                                                                  |               |                            |
+| `less`     | 以可翻页的方式查看大型文件（推荐）。                                     | `less long_log.log` (使用箭头键导航, 按 `q` 退出)                                         |               |                            |
+| `head`     | 查看文件的前N行（默认10行）。                                       | `head -n 20 file.txt` (查看前20行)                                                  |               |                            |
+| `tail`     | 查看文件的后N行（默认10行）。                                       | `tail -n 50 file.txt` (查看后50行)<br>`tail -f app.log` (实时跟踪文件更新)                  |               |                            |
+| `grep`     | (Global Regular Expression Print) 在文本中搜索匹配的行。          | `grep "error" app.log` (查找包含"error"的行)<br>`grep -i "hello" file.txt` (-i 忽略大小写) |               |                            |
+| `          | `                                                      | **管道 (Pipe)**：将一个命令的输出作为另一个命令的输入。                                               | `cat data.txt | grep "user_id"` (在文件内容中搜索) |
+| `>` / `>>` | **重定向 (Redirection)**：`>` 将输出写入文件（覆盖），`>>` 将输出追加到文件末尾。 | `ls -l > file_list.txt` (将列表保存到文件)                                              |               |                            |
+| `wc`       | (Word Count) 统计文件的行数、单词数和字符数。                          | `wc -l file.txt` (只统计行数)                                                        |               |                            |
 
 ---
 
