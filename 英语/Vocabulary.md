@@ -10,4 +10,5 @@
 - manifest 显示
 - manual 手册
 - interface 界面
+- boot 启动
 - 
