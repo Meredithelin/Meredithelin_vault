@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Google 使用教程",
+      "path": "使用教程/Google 使用教程.md"
+    },
+    {
       "basename": "LINUX（自己版）",
       "path": "使用教程/Linux使用教程/LINUX（自己版）.md"
+    },
+    {
+      "basename": "帮我生成关于苏联克格勃的历史介绍@20260216_151648",
+      "path": "copilot/copilot-conversations/帮我生成关于苏联克格勃的历史介绍@20260216_151648.md"
+    },
+    {
+      "basename": "总结@20260214_213156",
+      "path": "copilot/copilot-conversations/总结@20260214_213156.md"
+    },
+    {
+      "basename": "jk@20260216_101239",
+      "path": "copilot/copilot-conversations/jk@20260216_101239.md"
+    },
+    {
+      "basename": "zongjie@20260216_095534",
+      "path": "copilot/copilot-conversations/zongjie@20260216_095534.md"
+    },
+    {
+      "basename": "Clip Web Page",
+      "path": "copilot/copilot-custom-prompts/Clip Web Page.md"
+    },
+    {
+      "basename": "Emojify",
+      "path": "copilot/copilot-custom-prompts/Emojify.md"
+    },
+    {
+      "basename": "Explain like I am 5",
+      "path": "copilot/copilot-custom-prompts/Explain like I am 5.md"
+    },
+    {
+      "basename": "Fix grammar and spelling",
+      "path": "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+    },
+    {
+      "basename": "Generate glossary",
+      "path": "copilot/copilot-custom-prompts/Generate glossary.md"
+    },
+    {
+      "basename": "Generate table of contents",
+      "path": "copilot/copilot-custom-prompts/Generate table of contents.md"
+    },
+    {
+      "basename": "Make longer",
+      "path": "copilot/copilot-custom-prompts/Make longer.md"
+    },
+    {
+      "basename": "Vscode常用快捷键",
+      "path": "Youtube/Vscode常用快捷键.md"
     },
     {
       "basename": "Vocabulary",
@@ -113,10 +165,6 @@
       "path": "Coffee/Coffee.md"
     },
     {
-      "basename": "Vscode常用快捷键",
-      "path": "Youtube/Vscode常用快捷键.md"
-    },
-    {
       "basename": "Youtube",
       "path": "Youtube/Youtube.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Excel使用教程",
       "path": "使用教程/Excel使用教程.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "数据结构/数据结构.md"
-    },
-    {
-      "basename": "美国“斩杀线”，中国“保命线”？｜牢A｜沈逸｜精准扶贫｜丁胖子｜中美对账｜王局拍案",
-      "path": "Youtube/美国“斩杀线”，中国“保命线”？｜牢A｜沈逸｜精准扶贫｜丁胖子｜中美对账｜王局拍案.md"
-    },
-    {
-      "basename": "人生哲理",
-      "path": "人生哲理.md"
-    },
-    {
-      "basename": "Markdown使用教程",
-      "path": "使用教程/Markdown使用教程.md"
-    },
-    {
-      "basename": "健身",
-      "path": "健身/健身.md"
-    },
-    {
-      "basename": "Things to learn",
-      "path": "Things to learn.md"
-    },
-    {
-      "basename": "博彩记录",
-      "path": "投资/博彩记录.md"
-    },
-    {
-      "basename": "2026-02-10",
-      "path": "日记/2026-02-10.md"
-    },
-    {
-      "basename": "刑法",
-      "path": "刑法/刑法.md"
-    },
-    {
-      "basename": "法外狂徒张三",
-      "path": "刑法/法外狂徒张三.md"
-    },
-    {
-      "basename": "Drawing 2026-02-08 19.00.58.excalidraw",
-      "path": "刑法/Drawing 2026-02-08 19.00.58.excalidraw.md"
-    },
-    {
-      "basename": "2026-02-09",
-      "path": "日记/2026-02-09.md"
     }
   ],
   "omittedPaths": [],
