@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Google 使用教程",
-      "path": "使用教程/Google 使用教程.md"
-    },
-    {
       "basename": "LINUX（自己版）",
       "path": "使用教程/Linux使用教程/LINUX（自己版）.md"
+    },
+    {
+      "basename": "Vscode常用快捷键",
+      "path": "Youtube/Vscode常用快捷键.md"
+    },
+    {
+      "basename": "Trae",
+      "path": "Trae/Trae.md"
+    },
+    {
+      "basename": "Turing Complete",
+      "path": "Turing Complete/Turing Complete.md"
+    },
+    {
+      "basename": "Google 使用教程",
+      "path": "使用教程/Google 使用教程.md"
     },
     {
       "basename": "帮我生成关于苏联克格勃的历史介绍@20260216_151648",
@@ -53,10 +65,6 @@
       "path": "copilot/copilot-custom-prompts/Make longer.md"
     },
     {
-      "basename": "Vscode常用快捷键",
-      "path": "Youtube/Vscode常用快捷键.md"
-    },
-    {
       "basename": "Vocabulary",
       "path": "英语/Vocabulary.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "History",
       "path": "History/History.md"
-    },
-    {
-      "basename": "Trae",
-      "path": "Trae/Trae.md"
     },
     {
       "basename": "直播",
@@ -195,10 +199,6 @@
     {
       "basename": "剪辑",
       "path": "剪辑/剪辑.md"
-    },
-    {
-      "basename": "Excel使用教程",
-      "path": "使用教程/Excel使用教程.md"
     }
   ],
   "omittedPaths": [],
