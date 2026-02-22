@@ -5,6 +5,14 @@
       "path": "计划安排.md"
     },
     {
+      "basename": "日语",
+      "path": "日语/日语.md"
+    },
+    {
+      "basename": "Vscode常用快捷键",
+      "path": "Youtube/Vscode常用快捷键.md"
+    },
+    {
       "basename": "10分钟讲清楚 Prompt, Agent, MCP 是什么",
       "path": "Youtube/10分钟讲清楚 Prompt, Agent, MCP 是什么.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "LINUX（自己版）",
       "path": "使用教程/Linux使用教程/LINUX（自己版）.md"
-    },
-    {
-      "basename": "Vscode常用快捷键",
-      "path": "Youtube/Vscode常用快捷键.md"
     },
     {
       "basename": "Trae",
@@ -195,10 +199,6 @@
     {
       "basename": "揭秘华尔街最贵公式：他如何靠数学赚走1000亿？数学能破解股市吗？",
       "path": "Youtube/揭秘华尔街最贵公式：他如何靠数学赚走1000亿？数学能破解股市吗？.md"
-    },
-    {
-      "basename": "Rusty Lake",
-      "path": "Rusty Lake/Rusty Lake.md"
     }
   ],
   "omittedPaths": [],
