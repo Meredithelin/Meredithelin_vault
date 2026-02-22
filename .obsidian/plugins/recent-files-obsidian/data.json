@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gemini CLI使用教程",
+      "path": "使用教程/Gemini CLI使用教程.md"
+    },
+    {
       "basename": "计划安排",
       "path": "计划安排.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Linux",
       "path": "使用教程/Linux使用教程/Linux.md"
-    },
-    {
-      "basename": "Gemini CLI使用教程",
-      "path": "使用教程/Gemini CLI使用教程.md"
     },
     {
       "basename": "表达",
