@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-23",
+      "path": "日记/2026-02-23.md"
+    },
+    {
+      "basename": "2026-01-24",
+      "path": "日记/2026-01-24.md"
+    },
+    {
+      "basename": "2026-01-28",
+      "path": "日记/2026-01-28.md"
+    },
+    {
+      "basename": "2026-01-27",
+      "path": "日记/2026-01-27.md"
+    },
+    {
+      "basename": "2026-01-26",
+      "path": "日记/2026-01-26.md"
+    },
+    {
+      "basename": "2026-01-25",
+      "path": "日记/2026-01-25.md"
+    },
+    {
       "basename": "计划安排",
       "path": "计划安排.md"
     },
@@ -153,10 +177,6 @@
       "path": "日记/Templates.history.md"
     },
     {
-      "basename": "2026-01-24",
-      "path": "日记/2026-01-24.md"
-    },
-    {
       "basename": "YAML使用教程",
       "path": "使用教程/YAML使用教程.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "投资",
       "path": "投资/投资.md"
-    },
-    {
-      "basename": "AI",
-      "path": "AI/AI.md"
-    },
-    {
-      "basename": "Coffee",
-      "path": "Coffee/Coffee.md"
-    },
-    {
-      "basename": "Youtube",
-      "path": "Youtube/Youtube.md"
-    },
-    {
-      "basename": "Web开发者工具",
-      "path": "Web开发者工具/Web开发者工具.md"
-    },
-    {
-      "basename": "揭秘华尔街最贵公式：他如何靠数学赚走1000亿？数学能破解股市吗？",
-      "path": "Youtube/揭秘华尔街最贵公式：他如何靠数学赚走1000亿？数学能破解股市吗？.md"
     }
   ],
   "omittedPaths": [],

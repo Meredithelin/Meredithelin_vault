@@ -2,5 +2,8 @@
   "cssTheme": "Obsidian gruvbox",
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "textFontFamily": "Maple Mono NF CN",
+  "monospaceFontFamily": "Google Sans Code",
+  "interfaceFontFamily": "Maple Mono NF CN"
 }
