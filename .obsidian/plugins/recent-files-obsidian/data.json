@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MBTI字母含义",
+      "path": "性格类型/MBTI字母含义.md"
+    },
+    {
       "basename": "性格类型",
       "path": "性格类型/性格类型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "搜索技术教程",
       "path": "使用教程/搜索技术教程/搜索技术教程.md"
-    },
-    {
-      "basename": "Suno使用教程",
-      "path": "使用教程/Suno使用教程.md"
     }
   ],
   "omittedPaths": [],
