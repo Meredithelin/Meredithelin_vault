@@ -1,16 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "opencode使用教程",
+      "path": "使用教程/opencode使用教程.md"
+    },
+    {
+      "basename": "ISFP",
+      "path": "性格类型/ISFP.md"
+    },
+    {
+      "basename": "INTJ",
+      "path": "性格类型/INTJ.md"
+    },
+    {
+      "basename": "INFP",
+      "path": "性格类型/INFP.md"
+    },
+    {
+      "basename": "INFJ",
+      "path": "性格类型/INFJ.md"
+    },
+    {
+      "basename": "ESTP",
+      "path": "性格类型/ESTP.md"
+    },
+    {
+      "basename": "ESTJ",
+      "path": "性格类型/ESTJ.md"
+    },
+    {
+      "basename": "ESFP",
+      "path": "性格类型/ESFP.md"
+    },
+    {
+      "basename": "ESFJ",
+      "path": "性格类型/ESFJ.md"
+    },
+    {
+      "basename": "ENTP",
+      "path": "性格类型/ENTP.md"
+    },
+    {
+      "basename": "ENTJ",
+      "path": "性格类型/ENTJ.md"
+    },
+    {
+      "basename": "ENFP",
+      "path": "性格类型/ENFP.md"
+    },
+    {
+      "basename": "ENFJ",
+      "path": "性格类型/ENFJ.md"
+    },
+    {
+      "basename": "ISTP",
+      "path": "性格类型/ISTP.md"
+    },
+    {
+      "basename": "ISTJ",
+      "path": "性格类型/ISTJ.md"
+    },
+    {
+      "basename": "ISFJ",
+      "path": "性格类型/ISFJ.md"
+    },
+    {
+      "basename": "INTP",
+      "path": "性格类型/INTP.md"
+    },
+    {
       "basename": "MBTI字母含义",
       "path": "性格类型/MBTI字母含义.md"
     },
     {
       "basename": "性格类型",
       "path": "性格类型/性格类型.md"
-    },
-    {
-      "basename": "ENFJ",
-      "path": "性格类型/ENFJ.md"
     },
     {
       "basename": "计划安排",
@@ -135,70 +199,6 @@
     {
       "basename": "Vocabulary",
       "path": "英语/Vocabulary.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "使用教程/Linux使用教程/Linux.md"
-    },
-    {
-      "basename": "表达",
-      "path": "表达/表达.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "克格勃",
-      "path": "History/克格勃.md"
-    },
-    {
-      "basename": "汕头大火",
-      "path": "History/汕头大火.md"
-    },
-    {
-      "basename": "History",
-      "path": "History/History.md"
-    },
-    {
-      "basename": "直播",
-      "path": "浪尖儿/直播.md"
-    },
-    {
-      "basename": "浪尖儿",
-      "path": "浪尖儿/浪尖儿.md"
-    },
-    {
-      "basename": "魔术",
-      "path": "魔术/魔术.md"
-    },
-    {
-      "basename": "Google NotebookLM  Note Taking & Research Assistant Powered by AI",
-      "path": "Clippings/Google NotebookLM  Note Taking & Research Assistant Powered by AI.md"
-    },
-    {
-      "basename": "You said  为什么在中国钱越来越难赚，前都去哪了，不是生产力一直在发展吗",
-      "path": "Clippings/You said  为什么在中国钱越来越难赚，前都去哪了，不是生产力一直在发展吗.md"
-    },
-    {
-      "basename": "2026-02-16",
-      "path": "日记/2026-02-16.md"
-    },
-    {
-      "basename": "每天要做的事",
-      "path": "每天要做的事.md"
-    },
-    {
-      "basename": "Templates.history",
-      "path": "日记/Templates.history.md"
-    },
-    {
-      "basename": "YAML使用教程",
-      "path": "使用教程/YAML使用教程.md"
-    },
-    {
-      "basename": "搜索技术教程",
-      "path": "使用教程/搜索技术教程/搜索技术教程.md"
     }
   ],
   "omittedPaths": [],
