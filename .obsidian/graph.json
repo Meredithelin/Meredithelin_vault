@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path:性格类型  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,

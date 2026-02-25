@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ENFJ",
+      "path": "性格类型/ENFJ.md"
+    },
+    {
+      "basename": "性格类型",
+      "path": "性格类型/性格类型.md"
+    },
+    {
       "basename": "计划安排",
       "path": "计划安排.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Suno使用教程",
       "path": "使用教程/Suno使用教程.md"
-    },
-    {
-      "basename": "不能说的秘密",
-      "path": "我唱的歌/不能说的秘密.md"
-    },
-    {
-      "basename": "经济学",
-      "path": "经济学/经济学.md"
     }
   ],
   "omittedPaths": [],
