@@ -5,12 +5,16 @@
       "path": "计划安排.md"
     },
     {
-      "basename": "Gemini CLI使用教程",
-      "path": "使用教程/Gemini CLI使用教程.md"
+      "basename": "2026-02-25",
+      "path": "日记/2026-02-25.md"
     },
     {
       "basename": "2026-02-23",
       "path": "日记/2026-02-23.md"
+    },
+    {
+      "basename": "Gemini CLI使用教程",
+      "path": "使用教程/Gemini CLI使用教程.md"
     },
     {
       "basename": "2026-02-22",
@@ -195,10 +199,6 @@
     {
       "basename": "经济学",
       "path": "经济学/经济学.md"
-    },
-    {
-      "basename": "投资",
-      "path": "投资/投资.md"
     }
   ],
   "omittedPaths": [],
