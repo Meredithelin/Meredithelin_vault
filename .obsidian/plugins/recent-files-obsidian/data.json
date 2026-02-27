@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "手写的从前",
+      "path": "我唱的歌/手写的从前.md"
+    },
+    {
+      "basename": "Trae",
+      "path": "Trae/Trae.md"
+    },
+    {
+      "basename": "opencode使用教程",
+      "path": "使用教程/opencode使用教程.md"
+    },
+    {
+      "basename": "Markdown使用教程",
+      "path": "使用教程/Markdown使用教程.md"
+    },
+    {
+      "basename": "45个高级替换词，让英语作文眼前一亮",
+      "path": "英语/作文句子&模板/45个高级替换词，让英语作文眼前一亮.pdf"
+    },
+    {
       "basename": "计划安排",
       "path": "计划安排.md"
     },
@@ -25,16 +45,8 @@
       "path": "英语/作文句子&模板/满分作文必备：9 类过渡词.pdf"
     },
     {
-      "basename": "45个高级替换词，让英语作文眼前一亮",
-      "path": "英语/作文句子&模板/45个高级替换词，让英语作文眼前一亮.pdf"
-    },
-    {
       "basename": "英语6级高频词汇 （2022版）",
       "path": "英语/英语6级高频词汇 （2022版）.pdf"
-    },
-    {
-      "basename": "opencode使用教程",
-      "path": "使用教程/opencode使用教程.md"
     },
     {
       "basename": "ISFP",
@@ -169,10 +181,6 @@
       "path": "使用教程/Linux使用教程/LINUX（自己版）.md"
     },
     {
-      "basename": "Trae",
-      "path": "Trae/Trae.md"
-    },
-    {
       "basename": "Turing Complete",
       "path": "Turing Complete/Turing Complete.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "jk@20260216_101239",
       "path": "copilot/copilot-conversations/jk@20260216_101239.md"
-    },
-    {
-      "basename": "zongjie@20260216_095534",
-      "path": "copilot/copilot-conversations/zongjie@20260216_095534.md"
-    },
-    {
-      "basename": "Clip Web Page",
-      "path": "copilot/copilot-custom-prompts/Clip Web Page.md"
     }
   ],
   "omittedPaths": [],
