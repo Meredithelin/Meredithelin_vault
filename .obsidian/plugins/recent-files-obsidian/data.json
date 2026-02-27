@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "工具",
+      "path": "AI/工具.md"
+    },
+    {
+      "basename": "AI",
+      "path": "AI/AI.md"
+    },
+    {
       "basename": "手写的从前",
       "path": "我唱的歌/手写的从前.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "帮我生成关于苏联克格勃的历史介绍@20260216_151648",
       "path": "copilot/copilot-conversations/帮我生成关于苏联克格勃的历史介绍@20260216_151648.md"
-    },
-    {
-      "basename": "总结@20260214_213156",
-      "path": "copilot/copilot-conversations/总结@20260214_213156.md"
-    },
-    {
-      "basename": "jk@20260216_101239",
-      "path": "copilot/copilot-conversations/jk@20260216_101239.md"
     }
   ],
   "omittedPaths": [],
